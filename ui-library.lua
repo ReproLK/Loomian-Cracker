@@ -1,3 +1,5 @@
+-- Not made by me, https://v3rmillion.net/showthread.php?tid=1058356
+
 local library = {}
 local windowCount = 0
 local sizes = {}
